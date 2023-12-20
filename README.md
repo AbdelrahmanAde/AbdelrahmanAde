@@ -19,6 +19,5 @@
  <h4 align="left">• Microsoft Power BI (DAX, API, Power Query)</h4>
  <h4 align="left">• Excel (Pivot Table, Pivot Chart, VLOOKUP, HLOOKUP, Conditional Formatting, Statistic Function)</h4>
  <h4 align="left">• Tableau</h4>
- <h4 align="left">• Descriptive Statistics</h4>
  <h4 align="left">• Microsoft Azure (Data Bricks, Azure Data Lake, Azure Data Warehouse) </h4>
 
