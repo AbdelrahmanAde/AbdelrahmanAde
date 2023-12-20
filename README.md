@@ -16,9 +16,9 @@
 
 <h3 align="left">Languages and Tools:</h3><hr>
 <h4 align="left">• SQL (SQL Server, MySQL, PostgreSQL)</h4>
- <h4 align="left">• Tableau</h4>
+ <h4 align="right">• Tableau</h4>
  <h4 align="left">• Microsoft Power BI (DAX, API, Power Query)</h4>
  <h4 align="left">• Excel (Pivot Table, Pivot Chart, VLOOKUP, HLOOKUP, Conditional Formatting, Statistic Function)</h4>
- <h2 align="left">• Descriptive Statistics</h2>
- <h2 align="left">• Microsoft Azure (Data Bricks, Azure Data Lake, Azure Data Warehouse) </h2>
+ <h4 align="left">• Descriptive Statistics</h4>
+ <h4 align="left">• Microsoft Azure (Data Bricks, Azure Data Lake, Azure Data Warehouse) </h4>
 
