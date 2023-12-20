@@ -3,7 +3,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true"width=250px></picture><br></br>
 <h3 align="left">A little More about me :</h3> <hr>
 - 👯 I’m looking to collaborate on Data Analysis projects.
-
+How to reach me **abdelrahman.adel452@gmail.com**
 <h3 align="left">Connect with me:</h3><hr>
 - 📫 How to reach me **abdelrahman.adel452@gmail.com**
 <p align="left">
