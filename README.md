@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/abdelrahman-adel-618986253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman-adel-618986253" height="30" width="40" /></a>
 <a href="https://abdelrahmanade.github.io/" target="blank"><img align="center" src="https://svgsilh.com/svg/1873373.svg" alt="abdelrahma96062" height="30" width="40" /></a>
-<a href="https://twitter.com/abdelrahma96062" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdelrahma96062" height="30" width="40" /></a><a href="https://mail.google.com/mail/u/2/#inbox" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40" /></a>
+<a href="https://twitter.com/abdelrahma96062" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdelrahma96062" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3><hr>
