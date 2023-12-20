@@ -15,6 +15,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3><hr>
-	<h2 align="left">• SQL (SQL Server, MySQL, PostgreSQL)</h2>
+<h2 align="left">• SQL (SQL Server, MySQL, PostgreSQL)</h2>
  <h2 align="left">• Tableau</h2>
+ <h2 align="left">• Microsoft Power BI (DAX, API, Power Query)</h2>
+ <h2 align="left">• Excel (Pivot Table, Pivot Chart, VLOOKUP, HLOOKUP, Conditional Formatting, Statistic Function)</h2>
+ <h2 align="left">• Descriptive Statistics</h2>
+ <h2 align="left">• Microsoft Azure (Data Bricks, Azure Data Lake, Azure Data Warehouse) </h2>
 
