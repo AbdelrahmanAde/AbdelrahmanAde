@@ -4,8 +4,8 @@
 <h3 align="left">A little More about me :</h3> <hr>
 - 👯 I’m looking to collaborate on Data Analysis projects.
 
-- 📫 How to reach me **abdelrahman.adel452@gmail.com**
 <h3 align="left">Connect with me:</h3><hr>
+- 📫 How to reach me **abdelrahman.adel452@gmail.com**
 <p align="left">
 <a href="https://linkedin.com/in/abdelrahman-adel-618986253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman-adel-618986253" height="30" width="40" /></a>
 <a href="https://abdelrahmanade.github.io/" target="blank"><img align="center" src="https://svgsilh.com/svg/1873373.svg" alt="abdelrahma96062" height="30" width="40" /></a>
