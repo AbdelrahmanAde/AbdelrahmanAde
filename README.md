@@ -2,9 +2,7 @@
 <h3 align="center">I have a strong passion for developing Dashboards , Reports , Data models and Performance related insights . Since I can map the Business Requirements as a Business analyst and Data analyst the translate them into operational dashboard and Performance related insights . I can also perform advanced analytics to large data sets . Automating the processes concerning Data extraction and Data Transformation and Data Visualization.</h3>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true"width=250px></picture><br></br>
 <h3 align="left">A little More about me :</h3> <hr>
-- 👯 I’m looking to collaborate on Data Analysis projects**
-
-- 💬 Ask me about **I'm ready to help**
+- 👯 I’m looking to collaborate on Data Analysis projects.
 
 - 📫 How to reach me **abdelrahman.adel452@gmail.com**
 <h3 align="left">Connect with me:</h3><hr>
