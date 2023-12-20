@@ -15,4 +15,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3><hr>
-	<h3 align="left">SQL (SQL Server, MySQL, PostgreSQL)</h3>
+	<h2 align="left">• SQL (SQL Server, MySQL, PostgreSQL)</h2>
+ <h2 align="left">• Tableau</h2>
+
