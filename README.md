@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Adel</h1>
-<h3 align="center">I have a strong passion for developing Dashboards , Reports , Data models and Performance related insights . Since I can map the Business Requirements as a Business analyst and Data analyst the translate them into operational dashboard and Performance related insights . I can also perform advanced analytics to large data sets . Automating the processes concerning Data extraction and Data Transformation and Data Visualization.</h3>
+<h3 align="center">Data Analyst and Business Intelligence specialist are passionate about translating complex data into meaningful insights and developing Dashboards, Reports, Data models, and Performance-related insights. Google Data Analytics Certified since 2022 With a proven track record of driving data-driven decision-making, I bring analytical prowess and technical expertise to the table. I am seeking an opportunity to enhance my skills and experience to contribute to the success of a growing company.</h3>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true"width=250px></picture><br></br>
 
 
