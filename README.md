@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/abdelrahman-adel-618986253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman-adel-618986253" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Skills:</h3><hr>
+<h3 align="left">Skills</h3><hr>
 <h4 align="left">• SQL (SQL Server, MySQL, PostgreSQL) </h4>     
  <h4 align="left">• Microsoft Power BI (DAX, API, Power Query)</h4>
  <h4 align="left">• Python (Pandas, NumPy, SciPy, matplotlib)</h4>
